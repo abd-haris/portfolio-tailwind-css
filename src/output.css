@@ -1205,10 +1205,6 @@ body {
 }
 
 @media (min-width: 768px) {
-  .md\:top-0 {
-    top: 0px;
-  }
-
   .md\:w-1\/2 {
     width: 50%;
   }
